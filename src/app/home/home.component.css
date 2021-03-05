@@ -1,0 +1,10 @@
+.container{
+    background-image: url('../../assets/background/1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: calc(818/1294 * 100vh);
+    background-position: center center;
+    background-color: violet;
+    filter: brightness(0.7);
+}
