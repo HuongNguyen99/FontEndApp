@@ -1,0 +1,38 @@
+
+.container-home-search{
+  background-image: url('../../../assets/background/1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: auto;
+  height: calc(818/1294 * 100vh);
+  background-position: center center;
+  /* background-color: violet;
+  filter: brightness(0.7); */
+}
+
+.home-search{
+  display: flex;
+  margin: 0 auto;
+  box-shadow: 1px 1px 10px #f1f1f1;
+  background-color: white;
+  border-radius: 5rem;
+  width: 25rem;
+  padding: 1rem 1rem 1rem 0.5rem;
+}
+
+.input-search{
+  margin: auto;
+  padding-left: 1rem;
+  width: 25rem;
+}
+.input-icon{
+  margin: auto;
+  padding-left: 1rem;
+}
+
+
+#search{
+  border: none;
+
+}
+
